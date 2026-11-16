@@ -1,6 +1,5 @@
 # Road Accident Analysis Dashboard
-
-![Road Accident Dashboard](image/dashboard.png)
+![Road Accident Dashboard](Road%20accident%20analysis/image/dashboard.png)
 Executive Summary
 This dashboard provides a comprehensive analysis of road accident casualties, examining severity levels, vehicle types, road conditions, and temporal trends. The goal is to identify high-risk factors and support data-driven decisions for road safety improvements.
 > Tools Used: Microsoft Excel, Power Query (Data Cleaning), Power Pivot & DAX (Analysis).
